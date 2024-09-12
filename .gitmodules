@@ -13,3 +13,6 @@
 [submodule "pipex"]
 	path = pipex
 	url = https://github.com/GCgang/pipex.git
+[submodule "push_swap"]
+	path = push_swap
+	url = https://github.com/GCgang/push_swap.git
