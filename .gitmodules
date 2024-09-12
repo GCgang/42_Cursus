@@ -28,3 +28,6 @@
 [submodule "cub3d"]
 	path = cub3d
 	url = https://github.com/GCgang/cub3d.git
+[submodule "CPP_Module"]
+	path = CPP_Module
+	url = https://github.com/GCgang/CPP_Module.git
