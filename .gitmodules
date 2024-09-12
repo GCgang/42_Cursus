@@ -37,3 +37,6 @@
 [submodule "webserv"]
 	path = webserv
 	url = https://github.com/GCgang/webserv.git
+[submodule "Transcendence"]
+	path = Transcendence
+	url = https://github.com/GCgang/Transcendence.git
