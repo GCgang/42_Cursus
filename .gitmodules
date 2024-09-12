@@ -7,3 +7,6 @@
 [submodule "ft_printf"]
 	path = ft_printf
 	url = https://github.com/GCgang/ft_printf.git
+[submodule "fract-ol"]
+	path = fract-ol
+	url = https://github.com/GCgang/fract-ol.git
